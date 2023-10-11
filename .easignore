@@ -1,0 +1,11 @@
+# Exclude development-specific files
+__tests__/
+.vscode/
+.idea/
+.git/
+
+# Exclude large asset files or folders
+assets/big_image.jpg
+assets/big_audio.mp3
+
+node_modules/
